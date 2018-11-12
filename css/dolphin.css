@@ -34,7 +34,7 @@ html {
   #dolphin {
     position: float;
     top: 60px;
-    transform: rotate(180deg);
+    transform: rotate(90deg);
   }
 
 }
