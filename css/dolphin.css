@@ -24,16 +24,16 @@ html {
   #dolphin {
     left: 900px;
     /* left 521 - 867 (it says 642-1090x) px rotate */
-    /* less than 521 px rotate back */  
+    /* less than 521 px rotate back */
   }
 }
 
 
-@media only screen and (max-width: 600px) and (min-width: 521px) 
+@media only screen and (max-width: 1090px) and (min-width: 642px)
 {
   #dolphin {
     position: float;
     top: 200px;
   }
-  
+
 }
