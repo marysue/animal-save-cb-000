@@ -15,6 +15,7 @@ html {
   #bear {
     position: absolute;
     left: 875px;
+    right: 25%;
   }
 
 }
