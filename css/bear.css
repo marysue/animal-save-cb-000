@@ -1,3 +1,5 @@
+
+
 html {
   background: url(../images/cliff.jpg) no-repeat top left;
 }
@@ -9,4 +11,8 @@ html {
 }
 
 /* Write your solution here */
-
+@media only screen and (min-width: 1196px) {
+  #bear {
+    left: 800px;
+  }
+}
