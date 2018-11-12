@@ -18,11 +18,10 @@ html {
   right: 0;
 }
 
-@media only screen (min-width: 1218px)
+/* Write your solution here */
+@media only screen and (min-width: 1196px) 
 {
   #dolphin {
-    left: 1049px;
+    left: 800px;
   }
 }
-
-/* Write your solution here */
